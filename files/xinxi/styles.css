@@ -1,0 +1,118 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:414px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u185_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:404px;
+  height:16px;
+}
+#u185 {
+  border-width:0px;
+  position:absolute;
+  left:5px;
+  top:3px;
+  width:404px;
+  height:16px;
+  display:flex;
+}
+#u185 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u185_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u186_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:414px;
+  height:708px;
+}
+#u186 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:28px;
+  width:414px;
+  height:708px;
+  display:flex;
+}
+#u186 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u186_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u187 {
+  border-width:0px;
+  position:absolute;
+  left:25px;
+  top:677px;
+  width:54px;
+  height:59px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u188 {
+  border-width:0px;
+  position:absolute;
+  left:122px;
+  top:677px;
+  width:54px;
+  height:59px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u189 {
+  border-width:0px;
+  position:absolute;
+  left:228px;
+  top:677px;
+  width:54px;
+  height:59px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u190 {
+  border-width:0px;
+  position:absolute;
+  left:332px;
+  top:677px;
+  width:54px;
+  height:59px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
